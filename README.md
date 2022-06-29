@@ -13,5 +13,5 @@ El repositorio esta compuesto(de momento) por 3 archivos y una carpeta:
 -Pandas instalado.
 
 <h1>Despliegue</h1>
-Para ejecutar el codigo, se debe contener Untitled.ipynb, la carpeta Muestras y el 2018_clean.csv, dentro de un mismo directorio. Y luego dentro de simbolos del sistema ejecutar Jupyter Notebook, para la posterior ejecución de Untitled.ipynb.
+Para ejecutar el codigo, se debe contener Untitled.ipynb, la carpeta Muestras y el archivo 2018_clean.csv, dentro de un mismo directorio. Y luego dentro de simbolos del sistema ejecutar Jupyter Notebook, para la posterior ejecución de Untitled.ipynb.
 
